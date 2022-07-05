@@ -2,4 +2,4 @@
 
 ## Index
 
-#### - 2022.07.05. [Git](https://github.com/Cookie-Rook/TIL/Git)
+#### 2022.7.5. [Git](https://github.com/Cookie-Rook/TIL/tree/main/Git)

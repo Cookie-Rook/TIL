@@ -2,7 +2,11 @@
 
 ## Date code
 
-220705-30 : [Git 기본 명령어 및 Commit Convention - 01]()
+- Data-code **개인적으로 사용하는 파일 식별 번호**<br>
+  작성날짜와 문서 순서를 나타내는 숫자를 병기<br>
+  문서 순서의 경우 Readme(00), 코드(10), TIL(30)부터 시작<br>
+
+**220705-30** [Git 기본 명령어 및 Commit Convention - 01](https://github.com/Cookie-Rook/TIL/blob/main/Git/Git%20%EA%B8%B0%EB%B3%B8%20%EB%AA%85%EB%A0%B9%EC%96%B4%20%EB%B0%8F%20Commit%20Convention%20-%2001.md)
 
 <br>
 <br>
@@ -11,30 +15,30 @@
 
 ### A
 
-[220705-30](#Data-code) Add<br>
+<span style="color:blue">220705-30</span> Add<br>
 
 ### C
 
-[220705-30](#Data-code) Clone<br>
-[220705-30](#Data-code) Commit<br>
-[220705-30](#Data-code) Commit Convention<br>
+<span style="color:blue">220705-30</span> Clone<br>
+<span style="color:blue">220705-30</span> Commit<br>
+<span style="color:blue">220705-30</span> Commit Convention<br>
 
 ### G
 
-[220705-30](#Data-code) Git 설치 <br>
+<span style="color:blue">220705-30</span> Git 설치 <br>
 
 ### I
 
-[220705-30](#Data-code) Init <br>
+<span style="color:blue">220705-30</span> Init <br>
 
 ### P
 
-[220705-30](#Data-code) Push<br>
+<span style="color:blue">220705-30</span> Push<br>
 
 ### R
 
-[220705-30](#Data-code) Remote<br>
+<span style="color:blue">220705-30</span> Remote<br>
 
 ### S
 
-[220705-30](#Data-code) Status<br>
+<span style="color:blue">220705-30</span> Status<br>

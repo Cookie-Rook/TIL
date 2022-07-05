@@ -2,10 +2,10 @@
 
 ### Contents
 
-1. [Git 설치](#1.-Git-설치)
-2. [Git 기본 명령어 (1) : add, clone, commit, push](<#2.-Git-기본-명령어-(1)>)
-3. [Commit convention](#3.-Commit-Convention)
-4. [참고자료]
+1. Git 설치
+2. Git 기본 명령어 (1) : init, clone, remote, add, status, commit, push
+3. Commit convention
+4. 참고자료
 
 <br>
 
@@ -57,10 +57,12 @@
 #### 2-2. Github 로컬저장소 변경하기
 
 - add <br>
+  `file_name` : 수정된 특정 파일을 staging 영역에 추가 <br>
   `.` : 현재 폴더의 변경 사항을 staging 영역에 추가 <br>
   `-A` : 모든 수정된 파일을 staging 영역에 추가 <br>
 
   ```
+  git add <file_name>
   git add .
   git add -A
   ```
@@ -105,12 +107,6 @@
 ```
 
 - `Type` : Commit 종류. 개인적으로 보기 편하기 위해 파일 작성 날짜(Data-code)를 병기할 예정<br>
-
-  - Data-code <br>
-    **개인적으로 사용하는 식별 번호**<br>
-    작성날짜와 문서 순서를 나타내는 숫자를 병기<br>
-    문서 순서의 경우 Readme(00), 코드(10), TIL(30)부터 시작<br>
-    Ex) 220705-30
 
   - Type 기본 <br>
     **feat** - 기능 추가 <br>
